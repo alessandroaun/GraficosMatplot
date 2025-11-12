@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # *** ATENÇÃO: VERIFIQUE NOVAMENTE O CAMINHO EXATO DO ARQUIVO ***
-caminho_arquivo = r'C:\Users\aless\Documents\GraficosMatplot\df_final_analise_por_anuncio.csv' 
+caminho_arquivo = r'C:\Users\aless\Documents\GraficosMatplot\df_final_analise_sem_outliers_IQR.csv' 
 
 # --- 1. CARREGAMENTO E PRÉ-PROCESSAMENTO DE DADOS (ROBUSTO) ---
 
